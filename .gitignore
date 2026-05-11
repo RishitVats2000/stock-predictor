@@ -7,7 +7,7 @@ __pycache__/
 
 # Generated data files
 *.csv
-*.txt
+report.txt
 
 # OS files
 .DS_Store
