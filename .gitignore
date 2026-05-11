@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated data files
+*.csv
+*.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
