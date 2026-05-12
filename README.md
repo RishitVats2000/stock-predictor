@@ -6,7 +6,17 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Learning_Project-orange)
 
+
 ---
+
+## 🌐 Live Demo
+
+**Try the app live →** [https://rv-stock-predictor.streamlit.app](https://rv-stock-predictor.streamlit.app/)
+
+No setup required — runs directly in your browser! 🚀
+
+---
+
 
 ## 🎯 What This Does
 
